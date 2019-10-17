@@ -14,7 +14,7 @@ public class Calculatrice {
 	
 	  public static void main(String args[]) { int a=3, b=2; int rest = somme
 	  (a,b); int esperado = 5; if(rest== esperado)
-	  System.out.println("C'est bien"); else System.out.println("C'est mauvais");
+	  System.out.println("C'est bien bien"); else System.out.println("C'est mauvais");
 	  
 	  }
 	 
