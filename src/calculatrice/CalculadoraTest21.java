@@ -14,7 +14,7 @@ public class CalculadoraTest21 {
 	public void testAnsSum() {
 		System.out.println("ansSum()");
 		CalculatriceTest2 calc = new CalculatriceTest2();
-		calc.add(3, 7);
+		calc.add(3, 8);
 		int result = calc.ans();
 		int esper = 5;
 		assertEquals(esper, result);
