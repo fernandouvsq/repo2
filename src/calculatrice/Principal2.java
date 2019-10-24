@@ -3,7 +3,7 @@ package calculatrice;
 import java.util.Scanner;
 
 public class Principal2 {
-//UN SOLO DIGITO Y SIN ESPACIOS
+//UN SEUL CHIFFRE ET SANS SPACES
 	public static void main(String[] args) {
 		String listtxt[];
 		String cadenaSinEspacios = "";
